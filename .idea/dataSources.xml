@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="websites_crud@localhost" uuid="695385e3-ed05-4f00-9ef7-7b3cc3183ff0">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/websites_crud</jdbc-url>
+      <driver-properties>
+        <property name="serverTimezone" value="Europe/Brussels" />
+      </driver-properties>
+    </data-source>
+    <data-source source="LOCAL" name="websites@localhost" uuid="46af3647-0f5a-4ad4-8a5e-0e953645e19e">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/websites</jdbc-url>
+      <driver-properties>
+        <property name="serverTimezone" value="Europe/Brussels" />
+      </driver-properties>
+    </data-source>
+  </component>
+</project>
